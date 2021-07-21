@@ -1,3 +1,6 @@
+name: A workflow form my Hello World file
+on: push
+
 jobs:
   build:
     name: Hello world action
